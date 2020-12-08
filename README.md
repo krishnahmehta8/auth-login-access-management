@@ -1,0 +1,2 @@
+# 3ed43a2bf23c25e1d1a2fbee333f3a91
+LoginAuthAssignment
