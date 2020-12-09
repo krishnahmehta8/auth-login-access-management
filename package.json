@@ -1,0 +1,32 @@
+{
+  "name": "aexonicassignmentkrishna",
+  "version": "1.0.0",
+  "description": "login,registration,all",
+  "main": "index.js",
+  "scripts": {
+    "test": "sudo node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnahmehta8/3ed43a2bf23c25e1d1a2fbee333f3a91.git"
+  },
+  "keywords": [
+    "Autherization",
+    "login",
+    "and",
+    "resgistration"
+  ],
+  "author": "krishnahmehta8@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnahmehta8/3ed43a2bf23c25e1d1a2fbee333f3a91/issues"
+  },
+  "homepage": "https://github.com/krishnahmehta8/3ed43a2bf23c25e1d1a2fbee333f3a91#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^5.11.5",
+    "util": "^0.12.3"
+  }
+}
